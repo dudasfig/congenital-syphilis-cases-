@@ -4,7 +4,7 @@ Análise de dados aplicada à saúde pública, utilizando um problema real e atu
 
 ## Integrantes
 - [Eduarda Souza Figueredo ](https://github.com/dudasfig)
-- [Arthur Pedrosa Padilha](https://github.com/p4dilh4)
+- [Arthur Pedrosa Padilha](https://github.com/P4d1lh4)
 - [Victor Pereira Pinto de Melo](https://github.com/victormelo87)
 
 ## Disciplina
